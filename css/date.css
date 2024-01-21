@@ -1,0 +1,26 @@
+.dhome{
+    /* background-image: url("/image/grid.webp");  */
+    /* min-height: 200px;  */
+    background-position: center;  
+    background-repeat: no-repeat; 
+    background-size: cover;  
+    align-content: center;
+    text-align: center;
+    display: grid;
+    min-height: calc(100vh - 128px);
+  }
+  .dhome a {
+    color: var(--gray);
+    align-content: center;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 00;
+  }
+  .dhome a:hover{
+      color: var(--blue);
+    }
+    .lbox{
+    padding: 50px;
+    font-size: 24px;
+
+    }
