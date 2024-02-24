@@ -1,5 +1,9 @@
 {
-  "functions": {},
+  "functions": {
+    "dummy": {
+      "runtime": "dummy"
+    }
+  },
   "rewrites": [
     { "source": "/(.*)", "destination": "/$1" }
   ]
