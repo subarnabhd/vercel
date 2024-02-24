@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Contact Us</h1>
-    <p>This is the contact page of our website.</p>
+    <p>This is the contact page of our website Test</p>
     <a href="index.php">Home</a>
     <a href="about.php">About</a>
 </body>
